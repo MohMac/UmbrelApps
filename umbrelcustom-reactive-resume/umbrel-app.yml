@@ -2,7 +2,7 @@ manifestVersion: 1
 id: umbrelcustom-reactive-resume
 name: Reactive Resume
 tagline: Replace this tagline with your app's tagline
-icon: https://svgur.com/i/mvA.svg
+icon: https://github.com/AmruthPillai/Reactive-Resume/blob/main/client/public/images/logos/logo.png
 category: Development
 version: "1.0.0"
 port: 3000
@@ -12,9 +12,9 @@ description: >-
 
   You can also add newlines!
 
-developer: Umbrel
-website: https://umbrel.com
-submitter: Umbrel
+developer: Reactive
+website: https://rxresu.me/
+submitter: Reactive
 submission: https://github.com/AmruthPillai/Reactive-Resume.git
 repo: https://github.com/AmruthPillai/Reactive-Resume.git
 support: https://github.com/AmruthPillai/Reactive-Resume/issues
